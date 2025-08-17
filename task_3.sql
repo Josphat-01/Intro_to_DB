@@ -1,1 +1,1 @@
-SHOW TABLES FROM alx_book_store
+SHOW TABLES FROM USE alx_book_store;
